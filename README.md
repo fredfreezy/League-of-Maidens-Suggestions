@@ -8,13 +8,12 @@
 * [Merchandise](https://shop.maidengaming.net/)
 * [_Game FAQ_](https://www.maidengaming.net/faq/)
 
-
-### Markdown
-
-First Header | Second Header
+### Suggestions
+Suggestion | Will Be Implementated
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Dormatory/Housing | Yes
+Open World Boss Minion Summoning | Maybe
+Futas | No
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
