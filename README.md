@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to The (Unoffocial) League of Maidens Suggestion Tracking Page
 
-You can use the [editor on GitHub](https://github.com/fredfreezy/League-of-Maidens-Suggestions/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Links to the League of Maidens Resources: 
+[Discord](https://discordapp.com/invite/5TU2NX9)
+[Twitter](https://twitter.com/leagueofmaidens)
+[Facebook](https://www.facebook.com/leagueofmaidens/)
+[Main Website](https://www.maidengaming.net/)
+[Merchandise](https://shop.maidengaming.net/)
+[Game FAQ](https://www.maidengaming.net/faq/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
