@@ -1,4 +1,4 @@
-## Welcome to The (Unoffocial) League of Maidens Suggestion Tracking Page
+## Welcome to The (UUUnoffocial) League of Maidens Suggestion Tracking Page
 
 ### Links to the League of Maidens Resources: 
 [Discord](https://discordapp.com/invite/5TU2NX9)
