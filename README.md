@@ -10,7 +10,26 @@
 
 ### Suggestions
 |Suggestion | Will Be Implementated|
-|------------ | -------------|
+|-----------|----------------------|
 |Dormatory/Housing | Yes|
 |Open World Boss Minion Summoning | Maybe|
 |Futas | No|
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Suggestion</b></th>
+    <th class="tg-yw4l"><b>Could Be Implemented</b></th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Dormatory/Housing</td>
+    <td class="tg-yw4l">Yes</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Open World Boss Minion Summoning</td>
+    <td class="tg-yw4l">Maybe</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Futas</td>
+    <td class="tg-yw4l">No</td>
+  </tr>
+</table>
