@@ -12,10 +12,10 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 Table of Contents
 =================
 
-  * [Suggestions](#Suggestions)
-    * [Quality of Life](#idea)
+  * [Suggestions](#suggestions)
+    * [Quality of Life](#free)
     * [Weapons & Ammunition](#features)
-  * [Already Implemented](#Already Implemented)
+  * [Already Implemented](#already implemented)
     * [Mail](#Mail)
 
 
