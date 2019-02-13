@@ -37,7 +37,7 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
     * [Weapons](#weapons)
     * [Weather & Lighting](#weather-and-lighting)
   * [Player_Suggestions](#player_suggestions)
-    * [Armor](#>armor)
+    * [Armor](#/armor)
     * [Audio](#>audio)
     * [Body, Face, & Hair (Appearance)](#body-face-and-hair)
     * [Buildings/Homes](#buildings-and-homes)
@@ -214,7 +214,7 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 # Player_Suggestions  
 Suggestion & Implementation Status (Possiblity of Future Addon):
 
-### >Armor
+### /Armor
 
 | (To Be Continued) | --- |
 | --- |:---:|
