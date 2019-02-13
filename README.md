@@ -13,7 +13,7 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 =================
 
   * [Player_Suggestions](#player_suggestions)
-    * [Body, Face, & Hair (Appearance)](#body,-face,-&-hair-(appearance))
+    * [Body, Face, & Hair (Appearance)](#body,-face,-and-hair-(appearance))
     * [Weapons_&_Ammunition](#weapons_and_ammunition)
     * [Body,_Face,_&_Hair](#body_face_&_hair)
   * [Already_Implemented](#already_implemented)
@@ -31,7 +31,7 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 | Title Here |
 | (Will This Work)  Maybe? |
 
-### Body,-Face,-&-Hair-(Appearance)
+### Body,-Face,-and-Hair-(Appearance)
 
 | Hex Color Code Input | Maybe |
 | ------------- |:-------------:|
