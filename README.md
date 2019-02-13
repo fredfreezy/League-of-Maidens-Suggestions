@@ -11,13 +11,13 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 
 ## Suggestions
 
-| Suggestion | Implementation Status |
+| Suggestion | Implementation Status (Possiblity of Future Addon) |
 | ------------- |:-------------:|
 | Dormatory/Housing | Yes |
 | Open World Boss Minion Summoning | Maybe |
-| Futas | No |
-| Futas | No |
-
+| Futas | No/Unlikely |
+| Beauty Album Desktop Wallpapers Powered by Waifu  Wallpaper™ | Yes |
+| (To Be Continued) | ??? |
 
 ## Already Implemented
 + Free to Play (No Money _Needed_)
@@ -26,15 +26,26 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 + Optional Nudity Pack
 + Boob Jiggle Physics (Adjustable - like everything else)
 + Character Flight
-+ Ai Gameplay
++ Player Inventory
++ Player Stats (DEF, HP, ATK, INT, LUK, & MP)
++ Equipment Set Bonuses, Valuables, Munitions, & Gear
++ Ai MOBA Gameplay (3 Maps & Lanes Currently)
++ Stamina, XP, dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
++ 5 Character Combat Abilites (Left Click, Right Click, 'Q', 'E', & 'R' Keys)
++ Player & Ai Looting
++ Mid-Combat Animation Interruption (Drinking Potions)
++ Random Generated Ai for MOBA Gameplay with Appearance Simularity 
++ Assult Rifles, Sniper Rifles, Swords, Rocket Launchers, 
 + Storymode/Freeplay Openworld
-+ Highly In-depth character customization ([Think Honey Select](https://www.google.com/search?q=honey+select&tbm=vid&source=lnms&sa=X&ved=0ahUKEwi-hc-xybfgAhWDhFQKHeYzArMQ_AUICigB&biw=1920&bih=934&dpr=1))
-+ Different Race Skins/Textures
-+ Tattoo & Accessory Character Addons (Tails, Horns, etc.)
-+ Dynamic Day/Night Cycles and Weather
++ Highly In-depth character customization & Background Availity (Think [Honey Select](https://www.google.com/search?q=honey+select&tbm=vid&source=lnms&sa=X&ved=0ahUKEwi-hc-xybfgAhWDhFQKHeYzArMQ_AUICigB&biw=1920&bih=934&dpr=1))
++ Different Race Skins/Textures (Mecha, Scales, & Fur)
++ Tattoo, Scar, & Accessory Character Addons (Tails, Horns, Masks, Ears, etc.)
++ Character Body Presets, Voices, Sexual Preferences & Emotes
++ Dynamic Day/Night Cycles
 + Intuitive Interface 
 + Quick-Access Homepage/Desktop with Changeable Background CG
 + Home Lobby
++ Lower-Left Chat Box (System Notices, General, Faction, Roleplay, & Dirtytalk)
 + Time-Step Reward System
 + Mail
 + SP
@@ -51,4 +62,6 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 + Unique Character Outfit & Weapon Levels/Stats (HP)
 + Capes
 + Mounts/Pets
++ Beauty Album System (Character Appearance Saves (Blueprints), Uploads, Pictures(1080p,2K,4K), Scenes, & Poses) 
++ Beauty Album Latest Blueprints & Top Liked as well as Sharing Option (Thumbnail Previews Availible)
 + 
