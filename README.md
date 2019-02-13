@@ -16,3 +16,19 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 | Dormatory/Housing | Yes |
 | Open World Boss Minion Summoning | Maybe |
 | Futas | No |
+| Futas | No |
+
+
+## Already Implemented
++ Free to Play (No Money _Needed_)
++ No P2W (Pay to Win)
++ 3rd Person Camera
++ Boob Jiggle Physics
++ Character Flight
++ Ai Gameplay
++ Storymode/Freeplay Openworld
++ Highly In-depth character customization
++ Dynamic day/night cycles and weather
++ Intuitive Interface
++ Home Lobby
++
