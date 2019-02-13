@@ -37,8 +37,8 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
     * [Weapons](#weapons)
     * [Weather & Lighting](#weather-and-lighting)
   * [Player_Suggestions](#player_suggestions)
-    * [Armor](#/armor)
-    * [Audio](#>audio)
+    * [Armor](#armor-)
+    * [Audio](#audio-)
     * [Body, Face, & Hair (Appearance)](#body-face-and-hair)
     * [Buildings/Homes](#buildings-and-homes)
     * [Campaign/Storyline](#campaign-and-storyline)
@@ -66,11 +66,11 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 
 # Already_Implemented
 
-### Armor
+### Armor-
 + Equipment Set Bonuses
 *
 
-### Audio
+### Audio-
 + Character Voice Options
 * 
 
