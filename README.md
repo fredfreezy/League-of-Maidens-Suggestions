@@ -15,7 +15,7 @@ Table of Contents
   * [Suggestions](#suggestions)
     * [Quality of Life](#free)
     * [Weapons & Ammunition](#features)
-  * [Already_Implemented](#already_implemented)
+  * [Already/Implemented](#already/implemented)
     * [Quality of Life](#free)
     * [Weapons & Ammunition](#features)
 
@@ -30,7 +30,7 @@ Table of Contents
 | Beauty Album Desktop Wallpapers Powered by Waifu  Wallpaper™ | Yes |
 | (To Be Continued) | ??? |
 
-## Already_Implemented
+## Already/Implemented
 + Free to Play (No Money _Needed_)
 + No P2W (Pay to Win)
 + 3rd & 1st Person Camera
