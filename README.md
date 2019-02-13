@@ -9,6 +9,17 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 + [Merchandise](https://shop.maidengaming.net/)
 + [_Game FAQ_](https://www.maidengaming.net/faq/)
 
+Table of Contents
+=================
+
+  * [Suggestions](#Suggestions)
+    * [Idea](#idea)
+    * [Features](#features)
+  * [Installation](#installation)
+  * [Uninstallation](#uninstallation)
+  * [Available plugins](#available-plugins)
+  * [Usage](#usage)
+
 ## Suggestions
 
 | Suggestion | Implementation Status (Possiblity of Future Addon) |
