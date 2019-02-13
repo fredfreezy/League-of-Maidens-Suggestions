@@ -16,7 +16,8 @@ Table of Contents
     * [Quality of Life](#free)
     * [Weapons & Ammunition](#features)
   * [Already Implemented](#already implemented)
-    * [Mail](#Mail)
+    * [Quality of Life](#free)
+    * [Weapons & Ammunition](#features)
 
 
 ## Suggestions
