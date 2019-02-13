@@ -10,6 +10,7 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 + [_Game FAQ_](https://www.maidengaming.net/faq/)
 
 ## Suggestions
+
 | Suggestion | Implementation Status |
 | ------------- |:-------------:|
 | Dormatory/Housing | Yes |
