@@ -68,7 +68,7 @@ Already_Implemented
 ===================
 ### Armor
 * Equipment Set Bonuses
-*
+
 
 ### Audio
 + Character Voice Options
