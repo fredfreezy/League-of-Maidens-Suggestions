@@ -68,7 +68,7 @@ Suggestion & Implementation Status (Possiblity of Future Addon):
 ### Armor
 
 | Witch Robes | yes |
-| ------------- |:-------------:|
+| --- |:---:|
 | (To Be Continued) | ??? |
 
 ### Audio
