@@ -10,11 +10,11 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 + [_Game FAQ_](https://www.maidengaming.net/faq/)
 
 ## Suggestions
-Suggestion | Implementation Status 
---- | :---: 
-Dormatory/Housing | Yes  
-Open World Boss Minion Summoning | Maybe 
-Futas | No 
+| Suggestion | Implementation Status |
+| ---------- |:---------------------:| 
+| Dormatory/Housing | Yes |
+| Open World Boss Minion Summoning | Maybe |
+| Futas | No |
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
