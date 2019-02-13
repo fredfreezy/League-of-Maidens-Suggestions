@@ -66,11 +66,11 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 
 # Already_Implemented
 
-### Armor-
-+ Equipment Set Bonuses
+### Armor
+* Equipment Set Bonuses
 *
 
-### Audio-
+### Audio
 + Character Voice Options
 * 
 
@@ -214,13 +214,13 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 # Player_Suggestions  
 Suggestion & Implementation Status (Possiblity of Future Addon):
 
-### /Armor
+### Armor-
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
-### >Audio
+### Audio-
 
 | (To Be Continued) | --- |
 | --- |:---:|
