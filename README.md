@@ -37,8 +37,8 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
     * [Weapons](#weapons)
     * [Weather & Lighting](#weather-and-lighting)
   * [Player_Suggestions](#player_suggestions)
-  ~~* [Armor](#armor)
-    * [Audio](#audio)
+    * [Armor](#>armor)
+    * [Audio](#>audio)
     * [Body, Face, & Hair (Appearance)](#body-face-and-hair)
     * [Buildings/Homes](#buildings-and-homes)
     * [Campaign/Storyline](#campaign-and-storyline)
@@ -61,7 +61,7 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
     * [Races](#races)
     * [User Interface & Settings](#user-interface-and-settings)
     * [Weapons](#weapons)
-    * [Weather & Lighting](#weather-and-lighting)~~
+    * [Weather & Lighting](#weather-and-lighting)
 
 
 # Already_Implemented
@@ -214,13 +214,13 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 # Player_Suggestions  
 Suggestion & Implementation Status (Possiblity of Future Addon):
 
-### Armor
+### >Armor
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
-### Audio
+### >Audio
 
 | (To Be Continued) | --- |
 | --- |:---:|
