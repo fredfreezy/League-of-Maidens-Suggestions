@@ -29,8 +29,8 @@ Table of Contents
 | Futas | No/Unlikely |
 | Beauty Album Desktop Wallpapers Powered by Waifu  Wallpaper™ | Yes |
 | (To Be Continued) | ??? |
-| (Title Here) |
-| (Will This Work) | Maybe? |
+| Title Here |
+| (Will This Work)  Maybe? |
 
 ## Already_Implemented
 + Free to Play (No Money _Needed_)
