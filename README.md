@@ -68,22 +68,23 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 
 ### Armor
 + Equipment Set Bonuses
-+ 
+*
 
 ### Audio
 + Character Voice Options
-+ 
+* 
 
 ### Body-Face-and-Hair
 + Body Presets
 + Optional Nudity Pack
 + Boob Jiggle Physics (Adjustable - like everything else)
+*
 
 ### Buildings-and-Homes
 + Dormatory/Housing
 + Daily Training & Training Rooms (Deffense & Offense)
 + Home Lobby
-+ 
+* 
 
 ### Campaign-and-Storyline
 + Storymode/Freeplay Openworld
