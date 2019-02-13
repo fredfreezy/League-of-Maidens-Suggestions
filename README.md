@@ -37,31 +37,31 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
     * [Weapons](#weapons)
     * [Weather & Lighting](#weather-and-lighting)
   * [Player_Suggestions](#player_suggestions)
-    * [Armor](#armor-)
-    * [Audio](#audio-)
-    * [Body, Face, & Hair (Appearance)](#body-face-and-hair)
-    * [Buildings/Homes](#buildings-and-homes)
-    * [Campaign/Storyline](#campaign-and-storyline)
-    * [Classes, Skills, Stats, & Leveling](#classes-skills-stats-and-leveling)
-    * [Clothing & Accessories](#clothing-and-accessories)
-    * [Combat & Abilities](#combat-and-abilites)
-    * [Crafting](#crafting)
-    * [Game Modes/Multiplayer](#game-modes-and-multiplayer)
-    * [Guilds/Factions](#guilds-and-factions)
-    * [Holidays & Special Events](#holidays-and-special-events)
-    * [Items & Objects (Player)](#items-and-objects_player)
-    * [Items & Objects (World)](#items-and-objects_world)
-    * [Landscape/Environment](#landscape-and-environment)
-    * [Lore/Immersion](#lore-and-immersion)
-    * [Miscellaneous](#miscellaneous)
-    * [NPCs & Vendors](#npcs-and-vendors)
-    * [Pets & Mounts](#pets-and-mounts)
-    * [Poses, Animation, Emotes, Recording, & Screen Capture](#poses-animation-emotes-recording-and-screen-capture)
-    * [Quests](#quests)
-    * [Races](#races)
-    * [User Interface & Settings](#user-interface-and-settings)
-    * [Weapons](#weapons)
-    * [Weather & Lighting](#weather-and-lighting)
+    * [Armor](#-armor)
+    * [Audio](#-audio)
+    * [Body, Face, & Hair (Appearance)](#-body-face-and-hair)
+    * [Buildings/Homes](#-buildings-and-homes)
+    * [Campaign/Storyline](#-campaign-and-storyline)
+    * [Classes, Skills, Stats, & Leveling](#-classes-skills-stats-and-leveling)
+    * [Clothing & Accessories](#-clothing-and-accessories)
+    * [Combat & Abilities](#-combat-and-abilites)
+    * [Crafting](#-crafting)
+    * [Game Modes/Multiplayer](#-game-modes-and-multiplayer)
+    * [Guilds/Factions](#-guilds-and-factions)
+    * [Holidays & Special Events](#-holidays-and-special-events)
+    * [Items & Objects (Player)](#-items-and-objects_player)
+    * [Items & Objects (World)](#-items-and-objects_world)
+    * [Landscape/Environment](#-landscape-and-environment)
+    * [Lore/Immersion](#-lore-and-immersion)
+    * [Miscellaneous](#-miscellaneous)
+    * [NPCs & Vendors](#-npcs-and-vendors)
+    * [Pets & Mounts](#-pets-and-mounts)
+    * [Poses, Animation, Emotes, Recording, & Screen Capture](#-poses-animation-emotes-recording-and-screen-capture)
+    * [Quests](#-quests)
+    * [Races](#-races)
+    * [User Interface & Settings](#-user-interface-and-settings)
+    * [Weapons](#-weapons)
+    * [Weather & Lighting](#-weather-and-lighting)
 
 
 # Already_Implemented
@@ -214,152 +214,152 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 # Player_Suggestions  
 Suggestion & Implementation Status (Possiblity of Future Addon):
 
-### Armor-
+### -Armor
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
-### Audio-
+### -Audio
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
-### Body-Face-and-Hair
+### -Body-Face-and-Hair
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
-### Buildings-and-Homes
+### -Buildings-and-Homes
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
-### Campaign-and-Storyline
+### -Campaign-and-Storyline
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
-### Classes-Skills-Stats-and-Leveling
+### -Classes-Skills-Stats-and-Leveling
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
-### Clothing-and-Accessories
+### -Clothing-and-Accessories
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
-### Combat-and-Abilites
+### -Combat-and-Abilites
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
-### Crafting
+### -Crafting
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
-### Game-Modes-and-Multiplayer
+### -Game-Modes-and-Multiplayer
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
-### Guilds-and-Factions
+### -Guilds-and-Factions
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
-### Holidays-and-Special-Events
+### -Holidays-and-Special-Events
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
-### Items-and-Objects_Player
+### -Items-and-Objects_Player
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
-### Items-and-Objects_World
+### -Items-and-Objects_World
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
-### Landscape-and-Environment
+### -Landscape-and-Environment
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
-### Lore-and-Immersion
+### -Lore-and-Immersion
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
-### Miscellaneous
+### -Miscellaneous
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
-### Npcs-and-Vendors
+### -Npcs-and-Vendors
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
-### Pets-and-Mounts
+### -Pets-and-Mounts
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
-### Poses-Animation-Emotes-Recording-and-Screen-Capture
+### -Poses-Animation-Emotes-Recording-and-Screen-Capture
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
-### Quests
+### -Quests
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
-### Races
+### -Races
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
-### User-Interface-and-Settings
+### -User-Interface-and-Settings
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
 
-### Weapons
+### -Weapons
 
 | (To Be Continued) | --- |
 | --- |:---:|
 | (To Be Continued) | --- |
 
-### Weather-and-Lighting
+### -Weather-and-Lighting
 
 | (To Be Continued) | --- |
 | --- |:---:|
