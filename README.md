@@ -13,12 +13,11 @@ Table of Contents
 =================
 
   * [Suggestions](#Suggestions)
-    * [Idea](#idea)
-    * [Features](#features)
-  * [Installation](#installation)
-  * [Uninstallation](#uninstallation)
-  * [Available plugins](#available-plugins)
-  * [Usage](#usage)
+    * [Quality of Life](#idea)
+    * [Weapons & Ammunition](#features)
+
+  * [Already Implemented](#Already Implemented)
+
 
 ## Suggestions
 
