@@ -63,7 +63,7 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 
 ## Player_Suggestions
 | Suggestion | Implementation Status (Possiblity of Future Addon) |
-| ------------- |:-------------:|
+| --- |:---:|
 ### Armor
 | Witch Robes | yes |
 | ------------- |:-------------:|
