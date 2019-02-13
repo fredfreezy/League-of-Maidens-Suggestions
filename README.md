@@ -62,12 +62,23 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 
 
 ## Player_Suggestions
-### Armor
 | Suggestion | Implementation Status (Possiblity of Future Addon) |
 | ------------- |:-------------:|
-
+### Armor
 | Witch Robes | yes |
 | ------------- |:-------------:|
+### Audio
+| Birthday Surprise Headshot Sound | Maybe |
+| ------------- |:-------------:|
+### Body-Face-and-Hair
+| Pubic Hair | Maybe |
+| ------------- |:-------------:|
+
+
+
+
+
+
 
 | Dormatory/Housing | Yes |
 | Open World Boss Minion Summoning | Maybe |
