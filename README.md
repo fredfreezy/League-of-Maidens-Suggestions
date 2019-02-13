@@ -65,7 +65,6 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 
 | Suggestion | Implementation Status (Possiblity of Future Addon) |
 | --- |:---:|
-| (To Be Continued) | ??? |
 
 ### Armor
 
