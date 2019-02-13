@@ -22,13 +22,33 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 ## Already Implemented
 + Free to Play (No Money _Needed_)
 + No P2W (Pay to Win)
-+ 3rd Person Camera
-+ Boob Jiggle Physics
++ 3rd & 1st Person Camera
++ Optional Nudity Pack
++ Boob Jiggle Physics (Adjustable - like everything else)
 + Character Flight
 + Ai Gameplay
 + Storymode/Freeplay Openworld
-+ Highly In-depth character customization
-+ Dynamic day/night cycles and weather
-+ Intuitive Interface
++ Highly In-depth character customization ([Think Honey Select](https://www.google.com/search?q=honey+select&tbm=vid&source=lnms&sa=X&ved=0ahUKEwi-hc-xybfgAhWDhFQKHeYzArMQ_AUICigB&biw=1920&bih=934&dpr=1))
++ Different Race Skins/Textures
++ Tattoo & Accessory Character Addons (Tails, Horns, etc.)
++ Dynamic Day/Night Cycles and Weather
++ Intuitive Interface 
++ Quick-Access Homepage/Desktop with Changeable Background CG
 + Home Lobby
-+
++ Time-Step Reward System
++ Mail
++ SP
++ Character Levels
++ Daily Reward System
++ Local Event Calander
++ Loot Crates (No Payment Required)
++ Weekly Challenges/Rewards
++ Beauty Album
++ 3D Pose System
++ Live Day, Night, & Time Cycles
++ Player Titles
++ Daily Training & Training Rooms (Deffense & Offense)
++ Unique Character Outfit & Weapon Levels/Stats (HP)
++ Capes
++ Mounts/Pets
++ 
