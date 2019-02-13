@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td class="tg-yw4l">Dormatory/Housing</td>
-    <td class="tg-yw4l">:Yes:</td>
+    <td class="tg-yw4l">Yes</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Open World Boss Minion Summoning</td>
@@ -27,3 +27,8 @@
     <td class="tg-yw4l">No</td>
   </tr>
 </table>
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
