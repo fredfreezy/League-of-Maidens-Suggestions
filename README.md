@@ -9,16 +9,10 @@
 * [_Game FAQ_](https://www.maidengaming.net/faq/)
 
 ### Suggestions
-|Suggestion | Will Be Implementated|
-|-----------|----------------------|
-|Dormatory/Housing | Yes|
-|Open World Boss Minion Summoning | Maybe|
-|Futas | No|
-
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><b>Suggestion</b></th>
-    <th class="tg-yw4l"><b>Could Be Implemented</b></th>
+    <th class="tg-yw4l"><b>Implementation Status</b></th>
   </tr>
   <tr>
     <td class="tg-yw4l">Dormatory/Housing</td>
