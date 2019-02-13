@@ -12,17 +12,30 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 Table of Contents
 =================
 
-  * [Suggestions](#suggestions)
-    * [Quality of Life](#free)
-    * [Weapons & Ammunition](#features)
+  * [Player_Suggestions](#player_suggestions)
+    * [Quality_of_Life](#quality_of_life)
+    * [Weapons_&_Ammunition](#weapons_and_ammunition)
+    * [Body,_Face,_&_Hair](#body_face_&_hair)
   * [Already_Implemented](#already_implemented)
     * [Quality of Life](#free)
     * [Weapons & Ammunition](#features)
 
 
-## Suggestions
+## Player_Suggestions
 
 | Suggestion | Implementation Status (Possiblity of Future Addon) |
+| ------------- |:-------------:|
+| Dormatory/Housing | Yes |
+| Open World Boss Minion Summoning | Maybe |
+| Futas | No/Unlikely |
+| Beauty Album Desktop Wallpapers Powered by Waifu  Wallpaper™ | Yes |
+| (To Be Continued) | ??? |
+| Title Here |
+| (Will This Work)  Maybe? |
+
+#Quality_of_Life
+
+| Hex Color Code Input | Maybe |
 | ------------- |:-------------:|
 | Dormatory/Housing | Yes |
 | Open World Boss Minion Summoning | Maybe |
