@@ -15,8 +15,8 @@ Table of Contents
   * [Suggestions](#Suggestions)
     * [Quality of Life](#idea)
     * [Weapons & Ammunition](#features)
-
   * [Already Implemented](#Already Implemented)
+    * [Mail](#Mail)
 
 
 ## Suggestions
