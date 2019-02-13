@@ -27,25 +27,3 @@
     <td class="tg-yw4l">No</td>
   </tr>
 </table>
-
-<html>
-<body >
-	Horizondal Align (Align) <br><br>
-  		<table border="0" width=0>
-		<tr>
-    		<td align=Left >Left</td>
-    		<td align=Right>Right</td>
-    		<td align=Center>Center</td>
-  		</tr>
-	</table>
-	<br><br>
-	Vertical Align (VAlign) <br><br>
-	<table border="2" width=300>
-  		<tr height=50>
-    		<td valign=top >Top</td>
-    		<td valign=bottom>Bottom</td>
-    		<td valign=middle>Middle</td>
-  		</tr>
-	</table>
-</body>
-</html>
