@@ -64,7 +64,7 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
     * [Weather & Lighting](#weather-and-lighting)
 
 
-## Already_Implemented
+# Already_Implemented
 
 ### Armor
 + Equipment Set Bonuses
@@ -89,7 +89,7 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 ### Campaign-and-Storyline
 + Storymode/Freeplay Openworld
 + Open World Boss Minion Summoning
-+ 
+* 
 
 ### Classes-Skills-Stats-and-Leveling
 + Unique Character Outfit & Weapon Levels/Stats (HP)
@@ -105,17 +105,17 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 + MP
 + XP
 + Stamina
-+ 
+* 
 
 ### Clothing-and-Accessories
 + Capes
-+ 
+* 
 
 ### Combat-and-Abilites
 + Character Flight
 + 5 Character Combat Abilites (Left Click, Right Click, 'Q', 'E', & 'R' Keys)
 + Mid-Combat Animation Interruptions (Ex. Hit whilst drinking a Potion)
-+ 
+* 
 
 ### Crafting
 * 
@@ -125,30 +125,31 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 + Ai MOBA Gameplay (3 Maps & Lanes Currently)
 + Random Generated Ai for MOBA Gameplay with Appearance Simularity
 + Player & Ai Looting
+*
 
 ### Guilds-and-Factions
-+
-+ 
+* 
+* 
 
 ### Holidays-and-Special-Events
-+
-+ 
+* 
+* 
 
 ### Items-and-Objects_Player
-+
-+ 
+* 
+* 
 
 ### Items-and-Objects_World
-+
-+ 
+* 
+* 
 
 ### Landscape-and-Environment
-+
-+ 
+* 
+* 
 
 ### Lore-and-Immersion
 + Sexual Preference Options
-+ 
+* 
 
 ### Miscellaneous
 + Beauty Album Desktop Wallpapers Powered by Waifu  Wallpaper™
@@ -156,30 +157,30 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 + Time-Step Reward System
 + Free to Play Game Style (No Money _Needed_)
 + No P2W (Only Cosmetic Improvements)
-+ 
+* 
 
 ### Npcs-and-Vendors
-+
-+ 
+* 
+* 
 
 ### Pets-and-Mounts
 + (Yet to be Added)
-+ 
+* 
 
 ### Poses-Animation-Emotes-Recording-and-Screen-Capture
 + Emotes
 + Poses
-+  
+* 
 
 ### Quests
 + Main Storyline
 + Daily Quests
 + Daily Reward System (Board-game-looking Interface)
-+
+* 
 
 ### Races
-+
-+ 
+* 
+* 
 
 ### User-Interface-and-Settings
 + Beauty Album
@@ -195,7 +196,7 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 + 3rd & 1st Person Camera
 + Player Inventory
 + Valuables, Munitions, & Gear Categories
-+
+* 
 
 ### Weapons
 + Assult Rifle _[context needed]_
@@ -203,14 +204,14 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 + Sword _[context needed]_
 + Rocket Launcher _[context needed]_
 + Scyth _[context needed]_
-+
+* 
 
 ### Weather-and-Lighting
 + Live Day, Night, & Time Cycles
-+ 
+* 
 
 
-## Player_Suggestions  
+# Player_Suggestions  
 Suggestion & Implementation Status (Possiblity of Future Addon):
 
 ### Armor
