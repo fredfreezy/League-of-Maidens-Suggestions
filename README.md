@@ -11,12 +11,6 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 
 ## Suggestions
 | Suggestion | Implementation Status |
-| ---------- |:---------------------:| 
-| Dormatory/Housing | Yes |
-| Open World Boss Minion Summoning | Maybe |
-| Futas | No |
-
-| Suggestion | Implementation Status |
 | ------------- |:-------------:|
 | Dormatory/Housing | Yes |
 | Open World Boss Minion Summoning | Maybe |
