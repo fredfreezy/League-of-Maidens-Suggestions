@@ -62,11 +62,12 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 
 
 ## Player_Suggestions
-
+### Armor
 | Suggestion | Implementation Status (Possiblity of Future Addon) |
 | ------------- |:-------------:|
 
-
+| Witch Robes | yes |
+| ------------- |:-------------:|
 
 | Dormatory/Housing | Yes |
 | Open World Boss Minion Summoning | Maybe |
