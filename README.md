@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td class="tg-yw4l">Dormatory/Housing</td>
-    <td class="tg-yw4l">Yes</td>
+    <td class="tg-yw4l">:Yes:</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Open World Boss Minion Summoning</td>
