@@ -118,8 +118,8 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 + 
 
 ### Crafting
-+
-+ 
+* 
+* 
 
 ### Game-Modes-and-Multiplayer
 + Ai MOBA Gameplay (3 Maps & Lanes Currently)
