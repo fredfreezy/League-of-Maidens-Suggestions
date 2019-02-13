@@ -85,9 +85,9 @@ Suggestion & Implementation Status (Possiblity of Future Addon):
 
 ### Buildings-and-Homes
 
-| (To Be Continued) | ??? |
+| (To Be Continued) | --- |
 | ------------- |:-------------:|
-| (To Be Continued) | ??? |
+| (To Be Continued) | --- |
 
 
 
