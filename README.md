@@ -33,7 +33,7 @@ Table of Contents
 | Title Here |
 | (Will This Work)  Maybe? |
 
-#Quality_of_Life
+# Quality_of_Life
 
 | Hex Color Code Input | Maybe |
 | ------------- |:-------------:|
