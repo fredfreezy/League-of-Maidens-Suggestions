@@ -10,7 +10,6 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 + [_Game FAQ_](https://www.maidengaming.net/faq/)
 
 # Table of Contents
-=================
 
   * [Player_Suggestions](#player_suggestions)
     * [Armor](#armor)
