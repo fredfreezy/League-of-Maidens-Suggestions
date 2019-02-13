@@ -89,7 +89,120 @@ Suggestion & Implementation Status (Possiblity of Future Addon):
 | --- |:---:|
 | (To Be Continued) | --- |
 
-dbfdsgfdg
+### Classes-Skills-Stats-and-Leveling
+
+| (To Be Continued) | --- |
+| --- |:---:|
+| (To Be Continued) | --- |
+
+### Clothing-and-Accessories
+
+| (To Be Continued) | --- |
+| --- |:---:|
+| (To Be Continued) | --- |
+
+### Combat-and-Abilites
+
+| (To Be Continued) | --- |
+| --- |:---:|
+| (To Be Continued) | --- |
+
+### Crafting
+
+| (To Be Continued) | --- |
+| --- |:---:|
+| (To Be Continued) | --- |
+
+### Game-Modes-and-Multiplayer
+
+| (To Be Continued) | --- |
+| --- |:---:|
+| (To Be Continued) | --- |
+
+### Guilds-and-Factions
+
+| (To Be Continued) | --- |
+| --- |:---:|
+| (To Be Continued) | --- |
+
+### Holidays-and-Special-Events
+
+| (To Be Continued) | --- |
+| --- |:---:|
+| (To Be Continued) | --- |
+
+### Items-and-Objects_Player
+
+| (To Be Continued) | --- |
+| --- |:---:|
+| (To Be Continued) | --- |
+
+### Items-and-Objects_World
+
+| (To Be Continued) | --- |
+| --- |:---:|
+| (To Be Continued) | --- |
+
+### Landscape-and-Environment
+
+| (To Be Continued) | --- |
+| --- |:---:|
+| (To Be Continued) | --- |
+
+### Lore-and-Immersion
+
+| (To Be Continued) | --- |
+| --- |:---:|
+| (To Be Continued) | --- |
+
+### Miscellaneous
+
+| (To Be Continued) | --- |
+| --- |:---:|
+| (To Be Continued) | --- |
+
+### Npcs-and-Vendors
+
+| (To Be Continued) | --- |
+| --- |:---:|
+| (To Be Continued) | --- |
+
+### Pets-and-Mounts
+
+| (To Be Continued) | --- |
+| --- |:---:|
+| (To Be Continued) | --- |
+
+### Poses-Animation-Emotes-Recording-and-Screen-Capture
+
+| (To Be Continued) | --- |
+| --- |:---:|
+| (To Be Continued) | --- |
+
+### Quests
+
+| (To Be Continued) | --- |
+| --- |:---:|
+| (To Be Continued) | --- |
+
+### Races
+
+| (To Be Continued) | --- |
+| --- |:---:|
+| (To Be Continued) | --- |
+
+### User-Interface
+
+| (To Be Continued) | --- |
+| --- |:---:|
+| (To Be Continued) | --- |
+
+### Weather-and-Lighting
+
+| (To Be Continued) | --- |
+| --- |:---:|
+| (To Be Continued) | --- |
+
 
 
 
