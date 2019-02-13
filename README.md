@@ -9,7 +9,7 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 + [Merchandise](https://shop.maidengaming.net/)
 + [_Game FAQ_](https://www.maidengaming.net/faq/)
 
-Table of Contents
+# Table of Contents
 =================
 
   * [Player_Suggestions](#player_suggestions)
@@ -33,7 +33,7 @@ Table of Contents
 | Title Here |
 | (Will This Work)  Maybe? |
 
-# Quality_of_Life
+### Quality_of_Life
 
 | Hex Color Code Input | Maybe |
 | ------------- |:-------------:|
