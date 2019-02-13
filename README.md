@@ -83,7 +83,11 @@ Suggestion & Implementation Status (Possiblity of Future Addon):
 | ------------- |:-------------:|
 | (To Be Continued) | ??? |
 
+### Buildings-and-Homes
 
+| (To Be Continued) | ??? |
+| ------------- |:-------------:|
+| (To Be Continued) | ??? |
 
 
 
