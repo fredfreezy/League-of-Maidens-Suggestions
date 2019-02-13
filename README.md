@@ -9,7 +9,7 @@
 * [_Game FAQ_](https://www.maidengaming.net/faq/)
 
 ### Suggestions
-<table class="tg" border="1" align="left">
+<table class="tg" align="center">
   <tr>
     <th class="tg-yw4l"><b>Suggestion</b></th>
     <th class="tg-yw4l"><b>Implementation Status</b></th>
