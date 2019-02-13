@@ -31,7 +31,6 @@
 <html>
 <body >
 	Horizondal Align (Align) <br><br>
-	<table border="2" width=150>
   		<tr>
     		<td align=Left >Left</td>
     		<td align=Right>Right</td>
