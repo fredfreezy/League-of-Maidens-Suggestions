@@ -13,12 +13,10 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 =================
 
   * [Player_Suggestions](#player_suggestions)
-    * [Quality_of_Life](#quality_of_life)
+    * [Quality of Life](#quality_of_life)
     * [Weapons_&_Ammunition](#weapons_and_ammunition)
     * [Body,_Face,_&_Hair](#body_face_&_hair)
   * [Already_Implemented](#already_implemented)
-    * [Quality of Life](#free)
-    * [Weapons & Ammunition](#features)
 
 
 ## Player_Suggestions
@@ -33,7 +31,7 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 | Title Here |
 | (Will This Work)  Maybe? |
 
-### Quality_of_Life
+### Quality of Life
 
 | Hex Color Code Input | Maybe |
 | ------------- |:-------------:|
