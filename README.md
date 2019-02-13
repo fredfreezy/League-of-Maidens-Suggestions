@@ -64,8 +64,8 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
     * [Weather & Lighting](#-weather-and-lighting)
 
 
-# Already_Implemented
-
+Already_Implemented
+===================
 ### Armor
 * Equipment Set Bonuses
 *
@@ -209,6 +209,8 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 ### Weather-and-Lighting
 + Live Day, Night, & Time Cycles
 * 
+
+
 
 
 # Player_Suggestions  
