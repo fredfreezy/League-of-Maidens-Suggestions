@@ -125,8 +125,8 @@ Already_Implemented
 + Horns
 + Wings
 + Glasses
-+ Ears (Bunny, cat, 
-+ Tails (Rabbit, cat, 
++ Ears 
++ Tails 
 + 
 
 ### Combat-and-Abilites
