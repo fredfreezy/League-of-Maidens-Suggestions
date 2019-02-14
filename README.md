@@ -15,6 +15,7 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
     * [Armor](#armor)
     * [Audio](#audio)
     * [Body, Face, & Hair (Appearance)](#body-face-and-hair)
+    * [Bosses & Enemy NPCs](#bosses-and-enemy-npcs)
     * [Buildings/Homes](#buildings-and-homes)
     * [Classes, Skills, Stats, & Leveling](#classes-skills-stats-and-leveling)
     * [Clothing & Accessories](#clothing-and-accessories)
@@ -40,6 +41,7 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
     * [Armor](#-armor)
     * [Audio](#-audio)
     * [Body, Face, & Hair (Appearance)](#-body-face-and-hair)
+    * [Bosses & Enemy NPCs](#-bosses-and-enemy-npcs)
     * [Buildings/Homes](#-buildings-and-homes)
     * [Campaign/Storyline](#-campaign-and-storyline)
     * [Classes, Skills, Stats, & Leveling](#-classes-skills-stats-and-leveling)
@@ -67,12 +69,14 @@ Welcome to The (Unoffocial) League of Maidens Suggestions & Implementations Trac
 Already_Implemented
 ===================
 ### Armor
-* Equipment Set Bonuses
-
++ Equipment Set Bonuses
++ Gear (6 Pieces ea. & 15 Tiers per set)
++ 
 
 ### Audio
 + Character Voice Options
-* 
++ Voiced NPCs (Coming soon)
++ 
 
 ### Body-Face-and-Hair
 + Body Presets
@@ -80,15 +84,22 @@ Already_Implemented
 + Boob Jiggle Physics (Adjustable - like everything else)
 *
 
+### Bosses-and-Enemy-NPCs
++ Open World Boss Minion Summoning
++ 'The Filth'
++ 'The Fallen'
++ World Boss (No name yet)
++ 
+
 ### Buildings-and-Homes
 + Dormatory/Housing
-+ Daily Training & Training Rooms (Deffense & Offense)
++ Daily Training & Training Rooms (Deffense & offense)
 + Home Lobby
 * 
 
 ### Campaign-and-Storyline
 + Storymode/Freeplay Openworld
-+ Open World Boss Minion Summoning
++ 
 * 
 
 ### Classes-Skills-Stats-and-Leveling
@@ -100,32 +111,42 @@ Already_Implemented
 + DEF
 + HP
 + ATK
-+ INT
-+ LUK
++ INT (Crafting)
++ LUK (Critical strikes)
 + MP
 + XP
 + Stamina
-* 
++ Outfit, Sheild, Wings, Gear, & Sword Progression/Leveling
++ Skills, Perks, & Abilities
++ 
 
 ### Clothing-and-Accessories
 + Capes
-* 
++ Horns
++ Wings
++ Glasses
++ Ears (Bunny, cat, 
++ Tails (Rabbit, cat, 
++ 
 
 ### Combat-and-Abilites
 + Character Flight
-+ 5 Character Combat Abilites (Left Click, Right Click, 'Q', 'E', & 'R' Keys)
-+ Mid-Combat Animation Interruptions (Ex. Hit whilst drinking a Potion)
-* 
++ 5 Character Combat Abilites (Left click, right click, 'Q', 'E', & 'R' keys)
++ Mid-Combat Animation Interruptions (Ex. Hit whilst drinking a potion)
++ 2nd Form Transitioning ((Changes looks & adds VFX) Can be customized out of combat)
++ Combo Counter
++ Visual Damage Values
++ 
 
 ### Crafting
-* 
-* 
++
++ 
 
 ### Game-Modes-and-Multiplayer
-+ Ai MOBA Gameplay (3 Maps & Lanes Currently)
++ Ai MOBA Gameplay (3 Maps & Lanes currently; Necropolis Desert, Freedom City, & Island Region)
 + Random Generated Ai for MOBA Gameplay with Appearance Simularity
 + Player & Ai Looting
-*
++ Open World Region(s) (Necropolis Desert, Freedom City, & "Santania Islands" - idk how it's spelt)
 
 ### Guilds-and-Factions
 * 
@@ -136,23 +157,51 @@ Already_Implemented
 * 
 
 ### Items-and-Objects_Player
-* 
-* 
++ Gift Boxes (NPC Relaion increase/progression)
++ Loot Crate Keys
++ Death Contract (Character resurrection)
++ Mail (Yet to be added)
++ Hp, Sheild, & Stamina Potions/Flasks
++ Ammunition Rounds (Weapon specific)
++ Rabbit's Tail (25% +LUK/5 minutes)
++ Range Ticket (One-time use at lobby gun range)
++ Crafting Ticket (One-time use crafting session)
++ SP Ticket (Refill SP bar by +100)
++ XP Ticket (Increase XP gain 25%/30 minutes. Mission & Play modes only)
++ Time Ticket
++ Beauty Ticket
++ Treasure & Diamonds ((1-12) Sell to vendors for gold)
++ Materia ((A1-D3 in alphanumeric order) Used in crafting)
++
 
 ### Items-and-Objects_World
-* 
-* 
++ Random Destructible Wooden Crates
++ Houses 
++ Sky Scrapers
++ 
 
 ### Landscape-and-Environment
-* 
+* Destructible Environment _[Citation needed]_
 * 
 
 ### Lore-and-Immersion
 + Sexual Preference Options
-* 
++ Functional Showering Rooms
++ NPC Relationship/Affinity Levelsa
++ NPC Communication & Dialogue
++ Unique Characteristics/Personality/Name
++ Sink to Wash Face
++ Toilets
++ Jukeboxes (Interchangeable Music)
++ Towel Racks (Clothes Change)
++ NPC Timed Job Schedules
++ Medical Treatment Bay (Outfit HP Increase/Progression)
++ Gates to The Kingdom of Immortals (A series of readable 'lore books'. 15 Currently in-game)
++ Lore Scrolls (Recieved through combat and various actions. Combine 25 to craft a 'Lore Book')
++ Couch sitting & SP Regen
++ 
 
 ### Miscellaneous
-+ Beauty Album Desktop Wallpapers Powered by Waifu  Wallpaper™
 + Loot Crates (No Payment Required)
 + Time-Step Reward System
 + Free to Play Game Style (No Money _Needed_)
@@ -160,7 +209,8 @@ Already_Implemented
 * 
 
 ### Npcs-and-Vendors
-* 
++ Item Vendor
++ Gear Vendor ((LVL 1-5 Gear) LVL 6-15 is open world only)
 * 
 
 ### Pets-and-Mounts
@@ -170,7 +220,9 @@ Already_Implemented
 ### Poses-Animation-Emotes-Recording-and-Screen-Capture
 + Emotes
 + Poses
-* 
++ Motion 3D Camera ('F7' Key; Lense, Focal Distance, & Free Fly Camera - No Collision at the moment)
++ 3rd & 1st Person Camera
++ 
 
 ### Quests
 + Main Storyline
@@ -179,24 +231,26 @@ Already_Implemented
 * 
 
 ### Races
-* 
+* 12 (Ex. Mecha, Scaled, Cat/Tiger, Demon? - More coming.)
 * 
 
 ### User-Interface-and-Settings
++ Graphical Adjustments
++ Sound Adjustments
++ Custom Keybindings
 + Beauty Album
 + Beauty Album Desktop Wallpapers Powered by Waifu  Wallpaper™
 + Beauty Album Latest Blueprints & Top Liked as well as Sharing Option (Thumbnail Previews Availible)
 + Beauty Album System (Character Appearance Saves (Blueprints), Uploads, Pictures(1080p,2K,4K), Scenes, & Poses)
 + 3D Pose System
 + Local Event Calander
-+ Mail
 + Lower-Left Chat Box (System Notices, General, Faction, Roleplay, & Dirtytalk)
 + Quick-Access Homepage/Desktop with Changeable Background CG
 + Highly In-depth character customization & Background Availity (Think [Honey Select](https://www.google.com/search?q=honey+select&tbm=vid&source=lnms&sa=X&ved=0ahUKEwi-hc-xybfgAhWDhFQKHeYzArMQ_AUICigB&biw=1920&bih=934&dpr=1))
-+ 3rd & 1st Person Camera
 + Player Inventory
 + Valuables, Munitions, & Gear Categories
-* 
++ Upper-Right Map & Directional Compass
++ 
 
 ### Weapons
 + Assult Rifle _[context needed]_
@@ -204,10 +258,15 @@ Already_Implemented
 + Sword _[context needed]_
 + Rocket Launcher _[context needed]_
 + Scyth _[context needed]_
-* 
++ Shotgun _[context needed]_
++ Gun Skins (Recieved from Loot Crates)
++ Gun Cleaners (Cleans Gun Skins)
++ Gun Upgrades (Adds equipment & attachments to your gun)
 
 ### Weather-and-Lighting
 + Live Day, Night, & Time Cycles
++ Rain
++ 
 * 
 
 
@@ -230,6 +289,12 @@ Suggestion & Implementation Status (Possiblity of Future Addon):
 | (To Be Continued) | --- |
 
 ### -Body-Face-and-Hair
+
+| (To Be Continued) | --- |
+| --- |:---:|
+| (To Be Continued) | --- |
+
+### -Bosses-and-Enemy-NPCs
 
 | (To Be Continued) | --- |
 | --- |:---:|
