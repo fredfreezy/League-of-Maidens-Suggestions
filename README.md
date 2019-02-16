@@ -278,9 +278,9 @@ Suggestion & Implementation Status (Possiblity of Future Addon):
 
 ### -Armor
 
-| Example Here | Yes/No/Maybe? |
+| Mecha Armor | Yes |
 | --- |:---:|
-| (To Be Continued) | --- |
+| Nun Outfit | Maybe |
 
 ### -Audio
 
@@ -302,13 +302,13 @@ Suggestion & Implementation Status (Possiblity of Future Addon):
 
 ### -Buildings-and-Homes
 
-| (To Be Continued) | --- |
+| Player Houseing | Yes |
 | --- |:---:|
 | (To Be Continued) | --- |
 
 ### -Campaign-and-Storyline
 
-| (To Be Continued) | --- |
+| Main Scenario | Yes |
 | --- |:---:|
 | (To Be Continued) | --- |
 
@@ -338,7 +338,7 @@ Suggestion & Implementation Status (Possiblity of Future Addon):
 
 ### -Game-Modes-and-Multiplayer
 
-| (To Be Continued) | --- |
+| Multiplayer | Yes |
 | --- |:---:|
 | (To Be Continued) | --- |
 
@@ -416,7 +416,7 @@ Suggestion & Implementation Status (Possiblity of Future Addon):
 
 ### -User-Interface-and-Settings
 
-| (To Be Continued) | --- |
+| Hotbar for Items | Yes |
 | --- |:---:|
 | (To Be Continued) | --- |
 
