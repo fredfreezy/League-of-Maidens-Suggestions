@@ -278,7 +278,7 @@ Suggestion & Implementation Status (Possiblity of Future Addon):
 
 ### -Armor
 
-| Mecha Armor | Yes |
+| Example Here | Yes/No/Maybe? |
 | --- |:---:|
 | (To Be Continued) | --- |
 
